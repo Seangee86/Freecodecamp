@@ -1,0 +1,21 @@
+
+'''sval = "123"
+type(sval)
+
+
+
+ival = int(sval)
+type(ival)
+
+print(ival + 1)'''
+
+'''nam = input("Who the fuck are you?")
+print("welcome", nam)'''
+
+
+
+
+
+nzt = input('Enter your name: ')
+print('Hello', nzt)
+
