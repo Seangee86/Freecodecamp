@@ -1,0 +1,7 @@
+# FCC ves exercise 2
+
+xh = input("Enter Hours: ")
+xr = input("Enter Rate: ")
+xp = float(xh) * float(xr)
+print("pay:", xp)
+
