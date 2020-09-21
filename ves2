@@ -1,7 +1,27 @@
 # FCC ves exercise 2
 
-xh = input("Enter Hours: ")
+'''xh = input("Enter Hours: ")
 xr = input("Enter Rate: ")
 xp = float(xh) * float(xr)
-print("pay:", xp)
+print("pay:", xp)'''
+
+'''x = 11
+
+if x < 2 :
+    print('Small')
+elif x < 10 :
+    print('Medium')
+else:
+    print('Large')
+print('All Done')'''
+
+rawstr = input('Enter a Number: ')
+try:
+    ival  = int(rawstr)
+except:
+        ival = -1
+if ival > 0 :
+        print('Nice Work')
+else :
+        print('Not a Number')
 
